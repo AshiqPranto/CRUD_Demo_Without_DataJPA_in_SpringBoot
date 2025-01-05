@@ -4,6 +4,9 @@
 ## Overview
 This repository contains code from my learning practice with Spring REST APIs. The project demonstrates basic CRUD (Create, Read, Update, Delete) functionality for managing an Employee Directory.
 
+### Please go through the branch or commit history for detailed working history. I made CRUD features with usgin Data JPA and Data Rest first. Then I have included Data JPA and then finally in the master branch you can see the CRUD features code using Data Rest.
+
+
 ## Features
 - **Create**: Add new employees to the directory.
 - **Read**: Fetch details of all employees or a specific employee.
